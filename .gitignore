@@ -1,0 +1,6 @@
+*.json
+db/
+docs/
+test.py
+__pycache__/
+*.pyc.streamlit/ 
